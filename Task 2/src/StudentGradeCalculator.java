@@ -2,6 +2,8 @@ public class StudentGradeCalculator extends javax.swing.JFrame {
 
  
     public StudentGradeCalculator() {
+          setTitle("Task 2");
+        //    setLocationRelativeTo(null);
         initComponents();
     }
 
